@@ -72,62 +72,62 @@
                     </div>
                     <div class="book-card">
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image\hukum 1.png" alt="Cover Buku">
                         </div>
                             <div class="book-info">
-                                <p><strong>KATEGORI :</strong><br>SEJARAH</p>
-                                <p><strong>JUMLAH BUKU :</strong><br>54 Buku</p>
-                                <p><strong>LOKASI :</strong><br>rak 001</p>
+                                <p><strong>KATEGORI :</strong><br>HUKUM</p>
+                                <p><strong>JUMLAH BUKU :</strong><br>69 Buku</p>
+                                <p><strong>LOKASI :</strong><br>rak 007</p>
                             </div>
                     </div>
                     <div class="book-card">
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image\toefl 1.png" alt="Cover Buku">
                         </div>
                             <div class="book-info">
-                                <p><strong>KATEGORI :</strong><br>SEJARAH</p>
-                                <p><strong>JUMLAH BUKU :</strong><br>54 Buku</p>
-                                <p><strong>LOKASI :</strong><br>rak 001</p>
+                                <p><strong>KATEGORI :</strong><br>BAHASA</p>
+                                <p><strong>JUMLAH BUKU :</strong><br>45 Buku</p>
+                                <p><strong>LOKASI :</strong><br>rak 003</p>
                             </div>
                     </div>
                     <div class="book-card">
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image\website 1.png" alt="Cover Buku">
                         </div>
                             <div class="book-info">
-                                <p><strong>KATEGORI :</strong><br>SEJARAH</p>
-                                <p><strong>JUMLAH BUKU :</strong><br>54 Buku</p>
-                                <p><strong>LOKASI :</strong><br>rak 001</p>
+                                <p><strong>KATEGORI :</strong><br>PEMROGRAMAN</p>
+                                <p><strong>JUMLAH BUKU :</strong><br>26 Buku</p>
+                                <p><strong>LOKASI :</strong><br>rak 002</p>
                             </div>
                     </div>
                     <div class="book-card">
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image\pulang 1.png" alt="Cover Buku">
                         </div>
                             <div class="book-info">
-                                <p><strong>KATEGORI :</strong><br>SEJARAH</p>
-                                <p><strong>JUMLAH BUKU :</strong><br>54 Buku</p>
-                                <p><strong>LOKASI :</strong><br>rak 001</p>
+                                <p><strong>KATEGORI :</strong><br>SLICE OF LIVE</p>
+                                <p><strong>JUMLAH BUKU :</strong><br>36 Buku</p>
+                                <p><strong>LOKASI :</strong><br>rak 003</p>
                             </div>
                     </div>
                     <div class="book-card">
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image\rekomendasi.png" alt="Cover Buku">
                         </div>
                             <div class="book-info">
-                                <p><strong>KATEGORI :</strong><br>SEJARAH</p>
-                                <p><strong>JUMLAH BUKU :</strong><br>54 Buku</p>
-                                <p><strong>LOKASI :</strong><br>rak 001</p>
+                                <p><strong>KsssATEGORI :</strong><br>FOOD AND BEVERAGES</p>
+                                <p><strong>JUMLAH BUKU :</strong><br>76 Buku</p>
+                                <p><strong>LOKASI :</strong><br>rak 005</p>
                             </div>
                     </div>
                     <div class="book-card">
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image\buku1.webp" alt="Cover Buku">
                         </div>
                             <div class="book-info">
-                                <p><strong>KATEGORI :</strong><br>SEJARAH</p>
-                                <p><strong>JUMLAH BUKU :</strong><br>54 Buku</p>
-                                <p><strong>LOKASI :</strong><br>rak 001</p>
+                                <p><strong>KATEGORI :</strong><br>SLICE OF LIVE</p>
+                                <p><strong>JUMLAH BUKU :</strong><br>59 Buku</p>
+                                <p><strong>LOKASI :</strong><br>rak 003</p>
                             </div>
                     </div>
                     <div class="book-card">

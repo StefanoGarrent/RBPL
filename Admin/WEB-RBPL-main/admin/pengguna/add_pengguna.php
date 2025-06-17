@@ -53,6 +53,7 @@
 								<option>-- Pilih Level --</option>
 								<option>Administrator</option>
 								<option>Petugas</option>
+								<option>Anggota</option>
 							</select>
 						</div>
 

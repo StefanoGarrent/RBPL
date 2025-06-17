@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 16, 2025 at 08:25 PM
--- Server version: 10.4.28-MariaDB
--- PHP Version: 8.2.4
+-- Generation Time: Jun 17, 2025 at 03:31 PM
+-- Server version: 10.4.32-MariaDB
+-- PHP Version: 8.2.12
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -111,7 +111,7 @@ CREATE TABLE `tb_pengguna` (
   `nama_pengguna` varchar(20) NOT NULL,
   `username` varchar(20) NOT NULL,
   `password` varchar(35) NOT NULL,
-  `level` enum('Administrator','Petugas','','') NOT NULL
+  `level` enum('Administrator','Petugas','Anggota','','') NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 --
@@ -119,10 +119,12 @@ CREATE TABLE `tb_pengguna` (
 --
 
 INSERT INTO `tb_pengguna` (`id_pengguna`, `nama_pengguna`, `username`, `password`, `level`) VALUES
-(6, 'Stefano Garrent', 'geri', 'Casiopea@123', 'Administrator'),
-(7, 'Nabil', 'allen', 'nabil', 'Petugas'),
-(8, 'Admin', 'admin', '123', 'Administrator'),
-(9, 'Adminku', 'admin1', 'admin', 'Administrator');
+(6, 'Stefano Garrent', 'geri', '945cf0df7d4810649c22069b834a18d6', 'Administrator'),
+(7, 'Nabil', 'allen', '202cb962ac59075b964b07152d234b70', 'Petugas'),
+(8, 'Admin', 'admin', '827ccb0eea8a706c4c34a16891f84e7b', 'Administrator'),
+(9, 'Adminku', 'admin1', 'admin', 'Administrator'),
+(10, 'Joni', 'jon', '123', 'Anggota'),
+(11, 'Al Ilham Daffa', 'dappol', '123', 'Anggota');
 
 -- --------------------------------------------------------
 
@@ -149,7 +151,7 @@ INSERT INTO `tb_sirkulasi` (`id_sk`, `id_buku`, `id_anggota`, `tgl_pinjam`, `tgl
 ('S002', 'B002', 'A001', '2020-06-13', '2020-06-20', 'PIN', NULL),
 ('S003', 'B003', 'A002', '2020-06-22', '2020-06-29', 'KEM', NULL),
 ('S004', 'B002', 'A005', '2021-08-17', '2021-08-24', 'PIN', NULL),
-('S005', 'B001', 'A006', '2025-06-10', '2025-06-17', 'PIN', '2025-05-26'),
+('S005', 'B001', 'A006', '2025-05-27', '2025-06-03', 'PIN', '2025-05-26'),
 ('S006', 'B003', 'A006', '2025-05-27', '2025-06-03', 'KEM', '2025-05-26'),
 ('S007', 'B006', 'A004', '2025-04-04', '2025-04-11', 'PIN', '2025-05-26'),
 ('S008', 'B002', 'A006', '2024-04-09', '2024-04-16', 'PIN', '2025-05-26');
@@ -206,7 +208,7 @@ ALTER TABLE `log_pinjam`
 -- AUTO_INCREMENT for table `tb_pengguna`
 --
 ALTER TABLE `tb_pengguna`
-  MODIFY `id_pengguna` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id_pengguna` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
 
 --
 -- Constraints for dumped tables

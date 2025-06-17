@@ -10,6 +10,9 @@ if (isset($_SESSION["ses_username"]) == "") {
 	$data_level = $_SESSION["ses_level"];
 }
 
+if ($data_level == "Anggota") {
+	header("location: ../../User/home.php");
+}
 //KONEKSI DB
 include "inc/koneksi.php";
 ?>
@@ -420,6 +423,8 @@ include "inc/koneksi.php";
 						include "home/admin.php";
 					} elseif ($data_level == "Petugas") {
 						include "home/petugas.php";
+					} elseif ($data_level == "Anggota") {
+						include "?page=MyApp/User/home.php";
 					}
 				}
 				?>

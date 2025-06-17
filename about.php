@@ -21,8 +21,7 @@
             <a class="nav-link active" href="index.php">Home</a>
             <a class="nav-link" href="katalog.php">Buku</a>
             <a class="nav-link" href="about.php">Tentang Kami</a>
-            <a class="nav-link" href="bantuan.php">Bantuan</a>
-            <a class="nav-link" href="RBPL/WEB-RBPL-main/login.php">Login</a>
+            <a class="nav-link" href="Admin\WEB-RBPL-main\login.php">Login</a>
           </div>
         </div>
       </div>

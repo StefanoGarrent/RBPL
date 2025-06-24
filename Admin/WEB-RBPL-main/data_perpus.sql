@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 17, 2025 at 03:31 PM
+-- Generation Time: Jun 24, 2025 at 04:54 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -119,12 +119,11 @@ CREATE TABLE `tb_pengguna` (
 --
 
 INSERT INTO `tb_pengguna` (`id_pengguna`, `nama_pengguna`, `username`, `password`, `level`) VALUES
-(6, 'Stefano Garrent', 'geri', '945cf0df7d4810649c22069b834a18d6', 'Administrator'),
-(7, 'Nabil', 'allen', '202cb962ac59075b964b07152d234b70', 'Petugas'),
-(8, 'Admin', 'admin', '827ccb0eea8a706c4c34a16891f84e7b', 'Administrator'),
+(6, 'Stefano Garrent', 'geri', '123', 'Administrator'),
 (9, 'Adminku', 'admin1', 'admin', 'Administrator'),
 (10, 'Joni', 'jon', '123', 'Anggota'),
-(11, 'Al Ilham Daffa', 'dappol', '123', 'Anggota');
+(11, 'Al Ilham Daffa', 'dappol', '123', 'Anggota'),
+(12, 'Nabil', 'allen', '123', 'Petugas');
 
 -- --------------------------------------------------------
 
@@ -208,7 +207,7 @@ ALTER TABLE `log_pinjam`
 -- AUTO_INCREMENT for table `tb_pengguna`
 --
 ALTER TABLE `tb_pengguna`
-  MODIFY `id_pengguna` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=12;
+  MODIFY `id_pengguna` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- Constraints for dumped tables

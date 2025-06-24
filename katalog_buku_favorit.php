@@ -73,10 +73,10 @@
                     </div>
                     <div class="book-card">
                         <div class="book-title">
-                            <p><strong>SEJARAH DUNIA LENGKAP</strong></p>
+                            <p><strong>KALA SENJA MENYAPA</strong></p>
                         </div>
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image/buku1.webp" alt="Cover Buku">
                         </div>
                         <div class="book-info">
                             <p><strong>RATING</strong></p>
@@ -85,10 +85,10 @@
                     </div>
                     <div class="book-card">
                         <div class="book-title">
-                            <p><strong>SEJARAH DUNIA LENGKAP</strong></p>
+                            <p><strong>HUKUM PIDANA</strong></p>
                         </div>
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image/hukum 1.png" alt="Cover Buku">
                         </div>
                         <div class="book-info">
                             <p><strong>RATING</strong></p>
@@ -97,10 +97,10 @@
                     </div>
                     <div class="book-card">
                         <div class="book-title">
-                            <p><strong>SEJARAH DUNIA LENGKAP</strong></p>
+                            <p><strong>PULANG</strong></p>
                         </div>
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image/pulang 1.png" alt="Cover Buku">
                         </div>
                         <div class="book-info">
                             <p><strong>RATING</strong></p>
@@ -109,10 +109,10 @@
                     </div>
                     <div class="book-card">
                         <div class="book-title">
-                            <p><strong>SEJARAH DUNIA LENGKAP</strong></p>
+                            <p><strong>MASAKAN NUSANTARA</strong></p>
                         </div>
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image/rekomendasi.png" alt="Cover Buku">
                         </div>
                         <div class="book-info">
                             <p><strong>RATING</strong></p>
@@ -121,10 +121,10 @@
                     </div>
                     <div class="book-card">
                         <div class="book-title">
-                            <p><strong>SEJARAH DUNIA LENGKAP</strong></p>
+                            <p><strong>THE BEST DRILLING TOEFL</strong></p>
                         </div>
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image/toefl 1.png" alt="Cover Buku">
                         </div>
                         <div class="book-info">
                             <p><strong>RATING</strong></p>
@@ -133,34 +133,10 @@
                     </div>
                     <div class="book-card">
                         <div class="book-title">
-                            <p><strong>SEJARAH DUNIA LENGKAP</strong></p>
+                            <p><strong>OTODIDAK DESAIN DAN PEMROGRAMAN</strong></p>
                         </div>
                         <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
-                        </div>
-                        <div class="book-info">
-                            <p><strong>RATING</strong></p>
-                            <img src="image/rating.png" alt="Bintang 5">
-                        </div>
-                    </div>
-                    <div class="book-card">
-                        <div class="book-title">
-                            <p><strong>SEJARAH DUNIA LENGKAP</strong></p>
-                        </div>
-                        <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
-                        </div>
-                        <div class="book-info">
-                            <p><strong>RATING</strong></p>
-                            <img src="image/rating.png" alt="Bintang 5">
-                        </div>
-                    </div>
-                    <div class="book-card">
-                        <div class="book-title">
-                            <p><strong>SEJARAH DUNIA LENGKAP</strong></p>
-                        </div>
-                        <div class="book-cover">
-                            <img src="image/cover1.png" alt="Cover Buku">
+                            <img src="image/website 1.png" alt="Cover Buku">
                         </div>
                         <div class="book-info">
                             <p><strong>RATING</strong></p>

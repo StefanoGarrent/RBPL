@@ -35,7 +35,7 @@ include "../Admin/WEB-RBPL-main/inc/koneksi.php";
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
           <div class="navbar-nav">
             <a class="nav-link active" href="home.php">Home</a>
-            <a class="nav-link" href="daftar_buku.php">Buku</a>
+            <a class="nav-link" href="user_katalog.php">Buku</a>
             <a class="nav-link" href="user_about.php">Tentang Kami</a>
             <a class="nav-link" href="../Admin/WEB-RBPL-main/logout.php">Logout</a>
           </div>
@@ -50,7 +50,7 @@ include "../Admin/WEB-RBPL-main/inc/koneksi.php";
         <div class="sidebar-item">
           <img src="../image/Katalog.jpg" alt="Katalog Buku" width="90">
           <div>
-            <a class="fw-bold mb-0" href="daftar_buku.php">KATALOG JENIS BUKU</a>
+            <a class="fw-bold mb-0" href="user_katalog.php">KATALOG JENIS BUKU</a>
             <p class="mb-0">Jenis-jenis Buku</p>
           </div>
         </div>
